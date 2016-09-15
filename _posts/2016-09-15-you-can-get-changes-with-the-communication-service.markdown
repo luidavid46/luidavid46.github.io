@@ -2,6 +2,7 @@
 published: true
 title: You can get changes with the communication service
 layout: post
+permalink:  https://www.fujixerox.com.hk/en_us/products/digital-workflow-solutions/personalized-communications
 ---
 Communication is one of the important factor for the company and business. Let's me talk about the importance of communication in the company.
 
