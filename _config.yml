@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://luidavid46.github.io
+title: David_Lui
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
