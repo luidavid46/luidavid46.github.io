@@ -2,6 +2,7 @@
 published: true
 title: Do you have the difficulties to use office equipment? 
 layout: post
+categories: [technology]
 permalink: https://www.fujixerox.com.hk/en_us
 ---
 Many graduates faces the problems of the office equipment in the company. Do you have the difficulties of the office equipment? If yes, you should pay more attention in this blog. 
